@@ -189,13 +189,13 @@ plt.show()
 
 ## Data Pre-Processing
 
-![GITHUB](a.png)
+![Screenshot 2023-05-29 225311](https://github.com/Nagul71/Ex-08-Data-Visualization-/assets/118661118/0aae2516-e661-43fe-9b08-608279dbccdc)
 
-![GITHUB](b.png)
+![Screenshot 2023-05-29 225331](https://github.com/Nagul71/Ex-08-Data-Visualization-/assets/118661118/fb625a07-198d-4811-bbb7-bbbc3e058b7d)
 
-![GITHUB](c.png)
+![Screenshot 2023-05-29 225323](https://github.com/Nagul71/Ex-08-Data-Visualization-/assets/118661118/8b5dbf83-6f97-4b71-897f-882fec5c9761)
 
-![GITHUB](d.png)
+![Screenshot 2023-05-29 225338](https://github.com/Nagul71/Ex-08-Data-Visualization-/assets/118661118/71619f2b-0fc3-42db-a9b4-a84a447a5aec)
 
 ## Which Segment has Highest sales?
 
